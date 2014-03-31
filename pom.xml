@@ -18,6 +18,7 @@
     
     <modules>
         <module>countries</module>
+        <module>dcifun</module>
     </modules>
     
 </project>
